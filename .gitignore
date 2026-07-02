@@ -1,0 +1,16 @@
+# Runtime artifacts
+receipts.csv
+offers.csv
+metrics.json
+feature_importance.csv
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+.env
+
+# IDE
+.vscode/
+.idea/

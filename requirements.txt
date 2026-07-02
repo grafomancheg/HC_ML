@@ -1,0 +1,7 @@
+pandas
+numpy
+scikit-learn
+lightgbm
+# LightAutoML — предпочтительный AutoML для LAMA. Может не собраться из-за
+# json2html; в этом случае propensity_model.py автоматически падает на LightGBM.
+lightautoml
